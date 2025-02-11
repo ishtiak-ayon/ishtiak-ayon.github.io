@@ -3,22 +3,11 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Ishtiak Ayon Portfolio</title>
+	<title>Ishtiak Ayon</title>
 	<link rel="stylesheet" href="style.css">
 	<script src="https://kit.fontawesome.com/6065f7e395.js" crossorigin="anonymous"></script>
-	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-	
-	<script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
 </head>
 <body>
-
-	<div class="newtons-cradle">
-		<div class="newtons-cradle__dot"></div>
-		<div class="newtons-cradle__dot"></div>
-		<div class="newtons-cradle__dot"></div>
-		<div class="newtons-cradle__dot"></div>
-		</div>
-	
 	<div id="header">
 		<div class="container">
 			<nav>
@@ -26,8 +15,8 @@
 				<ul id="sidemenu">
 					<li><a href="#header">Home</a></li>
 					<li><a href="#about">About</a></li>
-					<li><a href="#services">Skills</a></li>
-					<!-- <li><a href="#portfolio">Photo Journal</a></li> -->
+					<li><a href="#services">Education</a></li>
+					<li><a href="#portfolio">Portfolio</a></li>
 					<li><a href="#contact">Contact</a></li>
 					<i class="fas fa-times" onclick="closemenu()"></i>
 				</ul>
@@ -35,20 +24,8 @@
 
 			</nav>
 			<div class="header-text">
-				<p>Hi there</p>
-				<h1>I am <span>ISHTIAK</span><br> </h1>
-
-				<!--<p class="plane-phone"><i class="fa-solid fa-paper-plane"></i>-->
-				<!--	<a href="mailto:ayon@ishtiak.space">ayon@ishtiak.space</a>-->
-				</p>
-					<div class="social-icons-phone social-icons">
-						<!-- <a href="https://www.facebook.com/ishtiakahmedayon.bd" target="_blank"><i class="fa-brands fa-facebook"></i></a> -->
-						<a href="mailto:ayon@ishtiak.space target="_blank"><i class="fa-solid fa-envelope"></i></a>
-						<a href="https://www.instagram.com/ishtiak_ion/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-						<a href="https://twitter.com/ishtiak_ayon" target="_blank"><i class="fa-brands fa-twitter"></i></a>
-						<a href="https://www.linkedin.com/in/ishtiakayon/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
-
-					</div>
+				<p>CSE Undergrad</p>
+				<h1>Hi, I am <span>Ishtiak</span><br> Ayon from Bangladesh</h1>
 			</div>
 		</div>
 
@@ -61,16 +38,8 @@
 					<img src="images/user.png" alt="">
 				</div>
 				<div class="about-col-2">
-					<h1 class="sub-title" data-aos="flip-up"
-					data-aos-delay="0"
-					data-aos-duration="1200"
-					data-aos-mirror="true"
-					><span class="s-color">A</span>bout Me</h1>
-					<p class="about-me-text" 
-					data-aos-delay="800"
-					data-aos-duration="1500"
-					data-aos-mirror="true"
-					> CSE undergrad | Tech Enthusiast | Aspiring Traveller </p>
+					<h1 class="sub-title">About Me</h1>
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut ipsam consectetur saepe veniam minus nemo vero quod non, voluptatibus eligendi eius porro cumque ab asperiores, reiciendis amet enim voluptate harum.</p>
 
 					<div class="tab-titles">
 						<p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
@@ -79,23 +48,22 @@
 					</div>
 					<div class="tab-contents active-tab" id="skills">
 						<ul>
-							<li><span>Graphic Design</span><br>Designining social media posters</li>
-							<li><span>Web development</span><br>HTML5, CSS, Wordpress</li>
-							<li><span></span><br>
-							</li>
+							<li><span>Graphic Designer</span><br>Designining social media posters</li>
+							<li><span>Web development</span><br>Wordpress website developer</li>
+							<li><span>Web development</span><br>Wordpress website developer</li>
 						</ul>
 					</div>
 					<div class="tab-contents" id="experience">
 						<ul>
-							<li><span>President</span><br>Science Club of Rouf college</li>
-							<li><span>Executive</span><br>Science Club of Rouf college</li>
+							<li><span>President</span><br>Scrc</li>
+							<li><span>Executive</span><br>Scrc</li>
 							<li><span>Organizer</span><br>3rd BMARPC National Science Festival</li>
 						</ul>
 					</div>
 					<div class="tab-contents" id="education">
 						<ul>
 							<li><span>2023-Present</span><br>Cse , Islamic University, Kushtia</li>
-							<li><span>Hsc (Class of 2022)</span><br>BMARPC</li>
+							<li><span>Hsc</span><br>BMARPC</li>
 							
 					</div>
 				</div>
@@ -107,45 +75,26 @@
 	<!-- --------------------- -->
 	<div id="services">
 		<div class="container">
-			<h1 class="sub-title"
-			
-			><span class="s-color"
-			data-aos="flip-up"
-					data-aos-delay="2s"
-					data-aos-duration="1200"
-					data-aos-mirror="true"
-			>S</span>kills </h1>
+			<h1 class="sub-title">My Services </h1>
 			<div class="services-list">
 				<div>
-					<i class="fa-solid fa-pen-nib"></i>
-					<h2>Graphic Design</h2>
-					<p>
-						<ul>
-							<Li>Adobe Illustrator</Li>
-							<li>Canva</li>
-						</ul>
-					</p>
-					<!-- <a href="#">Learn more</a> -->
+					<i class="fa-solid fa-code"></i>
+					<h2>Poster Design</h2>
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+					<a href="#">Learn more</a>
 				</div>
 				
 				<div>
-					<i class="fa-brands fa-microsoft"></i>
-					<h2>Office</h2>
-					<p><ul>
-						<Li>Ms Word | Ms Powerpoint | MS Excel</Li>
-						<li>Google sheets | Google Forms | Google Sites</li>
-					</ul></p>
-					<!-- <a href="#">Learn more</a> -->
+					<i class="fa-solid fa-pen-nib"></i>
+					<h2>Logo Design</h2>
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+					<a href="#">Learn more</a>
 				</div>
 				<div>
-					<i class="fa-solid fa-code"></i>
-					<h2>Web Development</h2>
-					<p><ul>
-						<Li>HTML 5</Li>
-						<li>CSS</li>
-						<li>Wordpress</li>
-					</ul></p>
-					<!-- <a href="#">Learn more</a> -->
+					<i class="fa-solid fa-leaf"></i>
+					<h2>Brochure Design</h2>
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+					<a href="#">Learn more</a>
 				</div>
 			</div>
 		</div>
@@ -153,56 +102,52 @@
 
 
 	<!-- ---------------portfolio---------------- -->
-	<!-- <div id="portfolio">
+	<div id="portfolio">
 		<div class="container">
-			<h1 class="sub-title"><span class="s-color">P</span>hoto Journal</h1>
+			<h1 class="sub-title">My Work </h1>
 			<div class="work-list">
 				<div class="work">
 					<img src="images/work-1.png" alt="">
 					<div class="layer">
-						<h3>Caught On Cam</h3>
-						<p>Photography blog</p>
-						<a href="https://ishtiakahmedayon.github.io/" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+						<h3>Social Media App</h3>
+						<p>The app connect you to the talent people around the globe.</p>
+						<a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
 					</div>
 				</div>
 				<div class="work">
 					<img src="images/work-2.png" alt="">
 					<div class="layer">
-						<h3></h3>
-						<p></p>
-						<a href="https://ishtiakahmedayon.github.io/" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+						<h3>Music App</h3>
+						<p>The app connect you to the talent people around the globe.</p>
+						<a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
 					</div>
 				</div>
 				<div class="work">
 					<img src="images/work-3.png" alt="">
 					<div class="layer">
-						<h3>Image 3</h3>
-						<p></p>
-						<a href="https://ishtiakahmedayon.github.io/" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+						<h3>Online shop</h3>
+						<p>The app connect you to the talent people around the globe.</p>
+						<a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
 					</div>
 				</div>
 			</div>
 			<a href="#" class="btn">See more</a>
 		</div>
-	</div> -->
+	</div>
 
 	<!-- -------------Contact-------------- -->
 
 	<div id="contact">
 		<div class="container">
-		    
 			<div class="row">
 				<div class="contact-left">
-					<h1 class="sub-title"><span class="s-color">C</span>ontact Me</h1>
-					<p><i class="fa-solid fa-paper-plane"></i>
-						<a href="mailto:ayon@ishtiak.space">ayon@ishtiak.space</a>
-					</p>
-					<!--<p><i class="fa-solid fa-phone"></i>-------------------</p>-->
-					
+					<h1 class="sub-title">Contact Me</h1>
+					<p><i class="fa-solid fa-paper-plane"></i>ayon@ishtiak.space</p>
+					<p><i class="fa-solid fa-phone"></i>016373388833</p>
 					<div class="social-icons">
-						<!-- <a href=""><i class="fa-brands fa-facebook"></i></a> -->
+						<a href=""><i class="fa-brands fa-facebook"></i></a>
 						<a href=""><i class="fa-brands fa-instagram"></i></a>
-						<!-- <a href=""><i class="fa-brands fa-twitter"></i></a> -->
+						<a href=""><i class="fa-brands fa-twitter"></i></a>
 						<a href=""><i class="fa-brands fa-linkedin"></i></a>
 
 					</div>
@@ -220,25 +165,9 @@
 			</div>
 		</div>
 		<div class="copyright">
-			<p> <i class="fa-regular fa-copyright"></i> 2023 Ishtiak_ayon </p>
+			<p>Copyright <i class="fa-regular fa-copyright"></i> Ishtiak_ayon </p>
 		</div>
 	</div>
-
-
-	//laoder 
-	<script>
-
-		$(window).on("load",function(){
-			$(".newtons-cradle").fadeOut("slow");
-
-		});
-		// const load = document.querySelector("loader");
-		// window.addEventListener("load", Function() {
-		// 	load.style.display = "none"
-		// });
-		</script>
-
-	//loader end
 	
 <script>
 	var tablinks = document.getElementsByClassName("tab-links");
@@ -284,11 +213,7 @@
 		})
 		.catch(error => console.error('Error!', error.message))
 	})
-
   </script>
-  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-    <script>
-      AOS.init();
-    </script>
+  
 </body>
 </html>

@@ -1,0 +1,156 @@
+<!DOCTYPE HTML>
+<!--
+	Lens by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Caught On Cam</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload-0 is-preload-1 is-preload-2">
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- Header -->
+					<header id="header">
+						<h1>Photo Journal</h1>
+						<p> by <b>Ishtiak Ayon</b> <br> 20 and an aspiring traveller. </p>
+                        
+						<ul class="icons">
+							 <!-- href="#" class="icon brands fa-twitter"><span class="label">Twitter</span> -->
+							<li><a href="https://www.instagram.com/ishtiak_ion/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							
+							<li><a href="mailto:ishtiakayon.ex2@gmail.com" class="icon fa-envelope"><span class="label">Email</span></a></li>
+						</ul>
+					</header>
+
+				<!-- Thumbnail -->
+					<section id="thumbnails">
+						<article>
+							<a class="thumbnail" href="images/fulls/14.jpg" data-position="left center"><img src="images/thumbs/14.jpg" alt="" /></a>
+							<h2>Pasture 1</h2>
+							<p>somewhere in sherpur.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/21.jpg"><img src="images/thumbs/21.jpg" alt="" /></a>
+							<h2> Ramna in Evening </h2>
+							<p>IDEB Bhaban, Kakrail.</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/18.jpg" data-position="top center"><img src="images/thumbs/18.jpg" alt="" /></a>
+							<h2>Grassland </h2>
+							<p>Jahangirnagar University Campus</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/19.jpg"><img src="images/thumbs/19.jpg" alt="" /></a>
+							<h2> Sitakot Bihar</h2>
+							<p>Nobabgonj,Dinajpur.</p>
+						</article>
+						 <article>
+							<a class="thumbnail" href="images/fulls/30.jpg"><img src="images/thumbs/30.jpg" alt="" /></a>
+							<h2> Nobabgonj </h2>
+							<p>Dinajpur</p>
+						</article>
+                        <article>
+							<a class="thumbnail" href="images/fulls/32.jpg"><img src="images/thumbs/32.jpg" alt="" /></a>
+							<h2> </h2>
+							<p>Dinajpur</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/25.jpg"><img src="images/thumbs/25.jpg" alt="" /></a>
+							<h2>doggo 1</h2>
+							<p>somewher in Dhanmondi,Dhaka</p>
+						</article>
+                        <article>
+							<a class="thumbnail" href="images/fulls/24.jpg"><img src="images/thumbs/24.jpg" alt="" /></a>
+							<h2>Doggo 2</h2>
+							<p>Somewhere in Dhanmondi</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/22.jpg"><img src="images/thumbs/22.jpg" alt="" /></a>
+							<h2> Ahsan monjil x fog</h2>
+							<p>Old Dhaka,Dhaka</p>
+						</article>
+                        <article>
+							<a class="thumbnail" href="images/fulls/31.jpg"><img src="images/thumbs/31.jpg" alt="" /></a>
+							<h2> Ahsan monjil </h2>
+							<p>Old Dhaka,Dhaka</p>
+						</article>
+                        <article>
+							<a class="thumbnail" href="images/fulls/26.jpg"><img src="images/thumbs/26.jpg" alt="" /></a>
+							<h2>  </h2>
+							<p>Dinajpur</p>
+						</article>
+                        <article>
+							<a class="thumbnail" href="images/fulls/27.jpg"><img src="images/thumbs/27.jpg" alt="" /></a>
+							<h2> </h2>
+							<p>Dinajpur</p>
+						</article>
+						<article>
+							<a class="thumbnail" href="images/fulls/28.jpg"><img src="images/thumbs/28.jpg" alt="" /></a>
+							<h2> Ramna Park </h2>
+							<p>Dhaka</p>
+						</article>
+                        <article>
+							<a class="thumbnail" href="images/fulls/29.jpg"><img src="images/thumbs/29.jpg" alt="" /></a>
+							<h2> Ramna Park </h2>
+							<p>,Dhaka</p>
+						</article>
+                       
+                        <article>
+							<a class="thumbnail" href="images/fulls/33.jpg"><img src="images/thumbs/33.jpg" alt="" /></a>
+							<h2>     </h2>
+							<p>Dhaka University Campus </p>
+						</article>
+                        <article>
+							<a class="thumbnail" href="images/fulls/34.jpg"><img src="images/thumbs/34.jpg" alt="" /></a>
+							<h2>     </h2>
+							<p>Dhaka university Campus</p>
+						</article>
+                          <article>
+							<a class="thumbnail" href="images/fulls/35.jpg"><img src="images/thumbs/35.jpg" alt="" /></a>
+							<h2>     </h2>
+							<p>Jahangirnagar University Campus</p>
+						</article>
+                        <article>
+							<a class="thumbnail" href="images/fulls/36.jpg"><img src="images/thumbs/36.jpg" alt="" /></a>
+							<h2>     </h2>
+							<p>Jahangirnagar University Campus </p>
+						</article>
+                        <article>
+							<a class="thumbnail" href="images/fulls/37.jpg"><img src="images/thumbs/37.jpg" alt="" /></a>
+							<h2>     </h2>
+							<p>Kakrail,Dhaka  </p>
+						</article>
+                        <article>
+							<a class="thumbnail" href="images/fulls/15.jpg"><img src="images/thumbs/15.jpg" alt="" /></a>
+							<h2>     </h2>
+							<p>Sherpur,Bangladesh  </p>
+						</article>
+                        
+                        
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="copyright">
+							<li>&copy; ishtiak ayon</li>
+						</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
